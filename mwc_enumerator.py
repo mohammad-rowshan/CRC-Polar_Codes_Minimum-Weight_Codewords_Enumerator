@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Unified minimum-distance / MWC enumerator for polar, PAC, PS-PAC and CRC-polar.
 
 ONE self-contained research script with embedded 3GPP 5G sequence.
