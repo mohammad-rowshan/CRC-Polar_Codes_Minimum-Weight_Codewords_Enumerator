@@ -21,6 +21,7 @@ import re
 import time
 from dataclasses import dataclass
 from typing import Iterable, Sequence
+
 # --------------------- USER CONFIGURATION ------------------------------
 # Used when the script is run without command-line arguments. You may also
 # set CONFIG = None to require CLI arguments. Edit any keys as needed.
