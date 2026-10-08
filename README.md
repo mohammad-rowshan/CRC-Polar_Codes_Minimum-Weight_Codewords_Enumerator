@@ -1,4 +1,4 @@
-# Minimum-weight codewords of polar, PAC, PS-PAC and CRC-polar codes
+# Minimum-weight codewords of Polar, PAC, PS-PAC and CRC-polar codes
 
 This directory contains two versions of the same Python program:
 
