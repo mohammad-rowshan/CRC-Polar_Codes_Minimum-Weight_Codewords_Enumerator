@@ -467,7 +467,9 @@ Pre-Transformation," *IEEE Journal on Selected Areas in Information
 Theory*, vol. 4, pp. 487-498, 2023.
 [doi:10.1109/JSAIT.2023.3312678](https://doi.org/10.1109/JSAIT.2023.3312678).
 
-[5] X. Gu, M. Rowshan and J. Yuan,
+[5] X. Gu, M. Rowshan and J. Yuan, "PAC Codes Meet CRC-Polar Codes," 2025 *IEEE Information Theory Workshop (ITW)*, Sydney, Australia, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240368.
+
+[5.1] X. Gu, M. Rowshan and J. Yuan,
 "CRC-Polar-Inspired PAC Codes: Enumeration and Minimum-Weight Codewords
 Pruning," accepted for publication in *IEEE Transactions on Communications*.
 
